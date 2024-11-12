@@ -1,1 +1,1 @@
-My site2
+My Blog
